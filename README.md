@@ -24,7 +24,7 @@ See schematic below:<br>
 * <a href="https://www.amazon.com/dp/B0C89Q81FW?ref=ppx_yo2ov_dt_b_fed_asin_title">Micro-USB Cable Fast Charging Cords Data Transfer Cable 30cm </a>
 * <a href="https://www.amazon.com/dp/B0D2L9JHLD?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">1602 LCD Display Module with IIC I2C Serial Interface Adapter LCM Blue Backlight Screen AIP31066 Controller 16X2 LCD</a>
 
-# Arduino ESP32
+# Arduino ESP32 Pinout
 <img src="./docs/ESP32_Pinout.jpg"/> 
 
 # Demo
